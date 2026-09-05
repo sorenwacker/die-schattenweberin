@@ -8,6 +8,10 @@ Ein deutschsprachiger Dark-Fantasy-Roman in dreißig Kapiteln, rund 184.000 Wör
 
 Dieser Roman wurde mit Hilfe künstlicher Intelligenz geschrieben. Text, Weltentwurf und Überarbeitung entstanden in der Zusammenarbeit mit [Claude Code](https://claude.com/claude-code) (Anthropic); Konzeption, Kanonentscheidungen und Endredaktion liegen beim Autor. Der Hinweis steht auch im Fußbereich jeder Seite der Lesefassung.
 
+## Hinweis zum Titel
+
+Dieser Roman steht in keiner Verbindung zu Monika Feltens Roman „Die Schattenweberin" (Piper 2007, „Das Erbe der Runen", Band 3) oder zu anderen Werken gleichen Titels. Handlung, Figuren und Welt sind unabhängig davon entstanden; die Übereinstimmung des Titels war nicht beabsichtigt.
+
 ## Worum es geht
 
 In einem Reich, dessen Bürger an ihrem achtzehnten Geburtstag unter dem Vorwand der „Lebensschuld" sterben müssen, entdeckt die Meisterweberin Elara Nachtborn während ihrer eigenen Sterbezeremonie die Wahrheit: Ein unsichtbares Netz verbindet alle Seelen des Reiches und erntet sie für eine uralte Entität. Elara entkommt und schließt sich dem Widerstand an.
